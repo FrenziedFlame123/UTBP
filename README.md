@@ -31,7 +31,7 @@ Go check CODE.ipynb for a demo workflow. There are several custom functions writ
 
 The UTBP application consists of two main components:
 
-1. **Backend**: A FastAPI application that processes data, runs machine learning models (using H2O), and provides endpoints for prediction and strategy calculation.
+1. **Backend**: A FastAPI application that processes data, runs machine learning models (using H2O or Pycaret), and provides endpoints for prediction and strategy calculation.
 2. **Frontend**: A Streamlit application that allows users to interact with the backend, upload datasets, configure parameters, and visualize results.
 
 ## Demo
