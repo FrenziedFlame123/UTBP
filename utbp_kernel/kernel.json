@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:\\Users\\demogog\\anaconda3\\envs\\UTBP_environment\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "UTBP Kernel",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

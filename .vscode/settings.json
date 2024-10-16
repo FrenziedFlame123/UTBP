@@ -1,0 +1,9 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "python.analysis.stubPath": "typings",
+    "files.exclude": {
+        "**/.git": false,
+        "# **/.git": true
+    }
+}

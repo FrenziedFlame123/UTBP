@@ -1,0 +1,4 @@
+,Model,Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,Balanced_Accuracy
+0,CatBoostClassifier (Weighted),0.7997,0.7993,0.6158,0.139,0.2267,0.1615,0.2217,0.7123
+1,XGBClassifier (Weighted),0.758,0.8,0.6842,0.1257,0.2124,0.1434,0.2168,0.723
+2,Pycaret Models Blended (DecisionTreeClassifier + CatBoostClassifier + LGBMClassifier) (Weighted),0.7462,0.8021,0.7105,0.1237,0.2108,0.141,0.2191,0.7293
